@@ -17,7 +17,7 @@ class Node:
 
 
 class LinkedList:
-    def __init__(self)"
+    def __init__(self)
     # the first Node in the LinkedList 
     self.head = None
     # the last Node in the LinkedList 
